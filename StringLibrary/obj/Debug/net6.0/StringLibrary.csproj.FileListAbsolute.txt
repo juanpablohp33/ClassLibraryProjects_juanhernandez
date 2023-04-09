@@ -1,0 +1,12 @@
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+C:\Users\Juan Pablo\OneDrive\Desktop\centennial\CICLO4\DEVOPS\juanhernandez_lab04\ClassLibraryProjects_juanhernandez\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
